@@ -1,0 +1,59 @@
+.centeredform {
+    text-align: center;
+    margin-top: 50px;
+}
+.logo-subtext {
+    color: #4285f4;
+    font: 18px/10px roboto-regular, arial, sans-serif;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    }
+.header-links {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    }
+.gbqfbb {
+  text-align: center;  
+    }
+
+.body{
+    margin: 0px;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+input {
+    font-size: 20px;
+    width: 427px;
+    padding: 5px;
+}
+.focus {
+        outline: none;
+    }
+
+    [type="text"] {
+        
+        color: #464646;
+        margin: 0 0 0 5px;
+    }
+
+    [type="submit"] {
+        font-size: 14px;
+        width: 250px;
+        border-width: 0px;
+        border-radius: 15px;
+        margin: 20px;
+    }
+
+
+
+
+   
+
+
+
+
+
